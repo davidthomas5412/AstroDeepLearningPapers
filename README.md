@@ -36,11 +36,11 @@ Edward J. Kim, Robert J. Brunner.
 Stanislav Fort.
 2017.
 
-[Effective Image Differencing with ConvNets for Real-time Transient Hunting](https://arxiv.org/abs/1710.01422)
+[Effective Image Differencing with ConvNets for Real-time Transient Hunting](https://arxiv.org/abs/1710.01422).
 Nima Sedaghat, Ashish Mahabal.
 2017.
 
-[Deep learning for studies of galaxy morphology](https://arxiv.org/abs/1701.05917)
+[Deep learning for studies of galaxy morphology](https://arxiv.org/abs/1701.05917).
 D. Tuccillo, M. Huertas-Company, E. Decenciere, S. Velasco-Forero.
 2017.
 
