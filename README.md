@@ -1,13 +1,14 @@
 # AstroDeepLearningPapers
 
-Fast Automated Analysis of Strong Gravitational Lenses
-with Convolutional Neural Networks
-Yashar D. Hezaveh, Laurence Perreault Levasseur, Philip J. Marshall
-https://arxiv.org/abs/1708.08842
-2017
+[Fast Automated Analysis of Strong Gravitational Lenses with Convolutional Neural Networks](https://arxiv.org/abs/1708.08842)
+Yashar D. Hezaveh, Laurence Perreault Levasseur, Philip J. Marshall.
+2017.
 
-[Cosmological model discrimination with Deep Learning](https://arxiv.org/abs/1707.05167).
-Jorit Schmelzle, Aurelien Lucchi, Tomasz Kacprzak, Adam Amara, Raphael Sgier, Alexandre Réfrégier, Thomas Hofmann. 2017.
+* [Cosmological model discrimination with Deep Learning](https://arxiv.org/abs/1707.05167)
+
+Jorit Schmelzle, Aurelien Lucchi, Tomasz Kacprzak, Adam Amara, Raphael Sgier, Alexandre Réfrégier, Thomas Hofmann. 
+
+2017.
 
 CMU DeepLens: Deep Learning For Automatic Image-based Galaxy-Galaxy Strong Lens Finding
 Francois Lanusse, Quanbin Ma, Nan Li, Thomas E. Collett, Chun-Liang Li, Siamak Ravanbakhsh, Rachel Mandelbaum, Barnabas Poczos
