@@ -50,6 +50,9 @@ H. Domínguez Sánchez, M. Huertas-Company, M. Bernardi, D. Tuccillo, J. L. Fish
 
 [A recurrent neural network for classification of unevenly sampled variable stars](https://arxiv.org/abs/1711.10609). Brett Naul, Joshua S. Bloom, Fernando Pérez, Stéfan van der Walt. 2017.
 
+[Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection](https://arxiv.org/abs/1701.00458). Guillermo Cabrera-Vives, Ignacio Reyes, Francisco Förster, Pablo A. Estévez, Juan-Carlos Maureira. 2017.
+
+
 # Contributing
 
 Feel free to shoot me a pull request.
