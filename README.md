@@ -48,6 +48,8 @@ D. Tuccillo, M. Huertas-Company, E. Decenciere, S. Velasco-Forero.
 H. Domínguez Sánchez, M. Huertas-Company, M. Bernardi, D. Tuccillo, J. L. Fisher.
 2017.
 
+[A recurrent neural network for classification of unevenly sampled variable stars](https://arxiv.org/abs/1711.10609). Brett Naul, Joshua S. Bloom, Fernando Pérez, Stéfan van der Walt. 2017.
+
 # Contributing
 
 Feel free to shoot me a pull request.
